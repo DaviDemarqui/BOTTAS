@@ -1,3 +1,2 @@
 # BOTTAS
-he is a crazy bot!!
-i made for my friend leo use in hes server.
+Bottas is a super simple bot that i made in my free time:D
