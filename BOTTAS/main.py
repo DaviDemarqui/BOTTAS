@@ -24,7 +24,7 @@ async def covid(ctx):
 
 @client.event
 async def on_member_join(member):
-    channel = client.get_channel(859557683144425506)
+    channel = client.get_channel()
     await channel.send('Helloo!')
 
 
