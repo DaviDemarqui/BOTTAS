@@ -35,4 +35,4 @@ async def on_member_remove(member):
 
 
 
-client.run('')#TokenHere
+client.run('')#Put your token here!
