@@ -9,7 +9,7 @@ client = commands.Bot(command_prefix = "!", intents=intents)
 
 @client.event
 async def on_ready():
-    print("The bot is on ready for use!!!")
+    print("The bot is on ready for use!")
 
 #Commands
 @client.command()
